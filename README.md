@@ -9,6 +9,7 @@ An end-to-end data analytics project using **SQL** and **Python (Pandas & Matplo
 Unplanned downtime in manufacturing leads to significant production losses. This project analyzes time-series sensor data (vibration, temperature, output units, and downtime minutes) collected across various production lines and machines. 
 
 The goal is to move from reactive maintenance to proactive risk classification using data-driven insights.
+<img width="895" height="498" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/ef7c482d-cf3b-4f24-b504-61ac340ca7cc" />
 
 ---
 
@@ -80,6 +81,11 @@ The Python analysis notebook includes:
 - **Scatter Plot:** Visualizing the relationship between machine vibration and recorded downtime.
 
 ---
+## 📉 Power BI Dashboard Features
+- **Key Metric Cards:** Total Downtime Minutes, Average Vibration, Average Temperature, and Production Units.
+- **Risk Level Slicers:** Dynamic filtering by Machine Risk Level (Critical, High, Medium, Normal).
+- **Line & Machine Drill-downs:** Downtime distribution across Production Lines and individual Machine IDs.
+
 
 ## 📁 Repository Structure
 
